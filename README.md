@@ -4,14 +4,14 @@ This project aims to detect real/deep-fake human speech using a CNN.
 
 ## Results
 
-- overall 95 percent score achieved on test data
+- Overall 95 percent score achieved on test data
 
 
 ## Links
 
 - The kaggle notebook along with datasets can be found [here](https://www.kaggle.com/code/ahmadaman1/digital-audio-forensics-using-ai-ml)
-- [Model Evaluation Report]()
-- [Final Report]()
+- [Model Evaluation Report](https://github.com/ahmad70701/Digital-Audio-Forensics-using-AI-ML/blob/main/reports/model_evaluation_report_bc200401244.pdf)
+- [Final Report](https://github.com/ahmad70701/Digital-Audio-Forensics-using-AI-ML/blob/main/reports/final_report_bc200401244.pdf)
 
 
 
